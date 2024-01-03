@@ -1,4 +1,4 @@
-### Hello world! Eu soua Geovana Ariel 👋
+### Hello world! Eu sou a Geovana Ariel 👋
 
  ### 🚀 Sobre Mim
  
