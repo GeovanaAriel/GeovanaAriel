@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello world! Eu soua Geovana Ariel 👋
 
-<!--
-**GeovanaAriel/GeovanaAriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ### 🚀 Sobre Mim
+ 
+- 👩‍💻 Novata no Front-End
+- 🌱 Aprendendo e crescendo a cada dia 
+- 😄 Pronomes: ela/dela
 
-Here are some ideas to get you started:
+### 📚 O Que estou Explorando 
+Atualmente, estou me aprofundando nos seguintes tópicos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTMl5
+- CSS3 e Flexbox
+- JavaScript e suas maravilhas
+- Ferramentas básicas como Git e Github
+
+  Vamos aprender juntos!🎊 Obrigada por fazer parte da minha jornada.
+
+  Happy coding!🚀
+
